@@ -1,0 +1,20 @@
+<script type="text/javascript">
+var adFalconParams=
+{
+    R_SID: "Set your site id here"
+    , R_AS:10 //If particular Ad size is requested; otherwise ignore it.
+    //, R_TM: true
+    //Extra optional parameters
+    //, R_UUID:"UUID" // If you maintain a unique user id for each user, then provide it here.
+    //, U_LN: “ar”
+    //,U_AGE: 27
+    //,U_G: m
+    //,U_KW: “sport, music”
+    //,U_CC: “JO”
+    //,U_AC: “962”
+    //,U_PC: “11121”
+    //,D_LA:35.654
+    //,D_LO:34.054
+}
+</script>
+<script type="text/javascript
